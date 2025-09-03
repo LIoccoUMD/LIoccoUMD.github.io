@@ -3,29 +3,29 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
+  position: left # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Luciano Iocco
+  tagline: Data-Driven Innovator - Automating Insights with Python & Visualization
+  avatar: pfp.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: lucianogiocco@gmail.com
+  phone: 301-378-4322
+  timezone: EST # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
+  website: http://fillerwebsite.com # Include the full website URL, including "http://" or "https://".
+  linkedin: luciano-iocco
+  # xing: see here for xing
+  github: LIoccoUMD
+  # telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  # bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  # twitter: '@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -40,127 +40,114 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
-
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Technology
       link:
 
 
-    - item: Snowboarding
+    - item: Soccer
       link:
 
 
-    - item: Cooking
+    - item: Data
       link:
 
 
 career-profile:
-  title: Career Profile
+  title: About Me
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I specialize in Python development, data analysis, and machine learning, with experience building automated workflows,
+    predictive models, and interactive dashboards that turn complex data into clear, actionable insights. My background includes leading development
+    projects, streamlining data processes, and collaborating across teams to improve efficiency and deicision-making.
+
+    Outside of work, I enjoy tackling side projects that blend problem-solving with creativity. I like to experiment with small
+    scale automation tools and new technologies. I'm always looking for opportunities to learn, grow, and apply my skills in a dynamic
+    environment.
+
+    *** This was in education details but it doesn't show up on screen? ***
+
+      During my time at the UMD I was exposed to a multitude of tools. Because of this, I 
+      am confidently able to quickly adapt to a new environment.
+
+      My studies at the University of Maryland, College Park,
+      honed my skills in information science and data management, focusing on programming,
+      statistical analysis, and ethical data use. I gained expertise in designing databases,
+      developing web applications, and applying user-centered design. Through coursework
+      in computing infrastructure, security, leadership, and advanced data science,
+      including machine learning, I built a strong foundation for creating innovative,
+      responsible solutions to complex data challenges.
+
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: BSc in Computer Science
+    university: University of Maryland - College Park
+    time: 2020 - 2024
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
 
+  - degree: Minor in Data Science
+    university: University of Maryland - College Park
+    time: 2024
+      
 experiences:
   title: Experiences
   info:
   - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+    time: Aug 2024 - December 2024
+    company: University of Maryland, iConsultancy
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      As the Lead Developer and Project Manager for the iConsultancy's Data Transformation project,
+      I led a student team in converting raw Qualtrics survey data into interactive Tableau
+      dashboards. I managed the project by assigning roles, delegating tasks, writing automated
+      Python scripts for data processing, assisting in visualization development, and documenting
+      all processes for future reusability.
+      - Managed a team of 5 students
+      - Developed an automated Python script for data cleaning, data transformation, and data dictionaries
+      - Documented and delivered a detailed implementation plan for reusability and sustainability
+      - Received incredible feedback
+      
+  - role: Quality Assurance Intern
+    time: June 2022 - August 2023
+    company: Stand Together
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      As Quality Assurance Intern at Stand Together, I rigorously tested the data pipeline from web forms
+      to Snowflake data lake, uncovering a significant reporting issue between test and production traffic.
+      I collaborated with the IT development team to resolve bugs, documented detailed test cases and
+      outcomes for efficient troubleshooting, and conducted extensive regression testing to verify
+      code changes had no adverse effects.
+      - Uncovered **significant** data reporting issue between test and production traffic
+      - Rigorously tested the data pipeline from Web Forms to Snowflake data lake
+      - Collaborated closely with the IT development team to resolve any bugs
+      - Documented detailed test cases and outcomes to facilitate efficient troubleshooting
+      - Conducted extensive regression testing to verify code changes did not have adverse effects
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: PCEP - Python Certified Entry Level Programmer
+    start: 2024
+    end:
+    organization: Python Institute
+    credentialid: Ci2j.iErU.mTtB
+    credentialurl: pythoninstitute.org/pcep
+    credentialname: PCEP - Certified Entry-Level Python Programmer
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      **PCEP -- Certified Entry-Level Python Programmer** certification
+      is a professional credential that measures the ability to accomplish
+      coding tasks related to the essentials of programming in the Python language.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
+      A test candidate should demonstrate sufficient knowledge of the universal
+      concepts of computer programming, the syntax and semantics of the Python
+      language as well as the skills in resolving typical implementation challenges
+      with the help of the Python Standard Library.
+
+      PCEP -- Cetified Entry-Level Python Programmer shows that the individual is
+      famiiar with universal computer programming concepts like data types, containers,
+      functions, conditions, loops, exceptions, as well as Python programming language
+      syntax, semantics, and the runtime environment.
+
   - name: Git learning
     start: 2019
     end:
@@ -203,60 +190,61 @@ projects:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#   title: OSS Contributions
+#   intro: >
+#     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   contributions:
+#   - title: Tempo
+#     link: "#"
+#     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#   - title: Atom
+#     link: "#"
+#     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#   - title: Delta
+#     link: "#"
+#     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#   - title: The Art of Computer Programming
+#     link: "#"
+#     authors: Donald E. Knuth
+#     conference: Addison-Wesley, 1968
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#     link: "#"
+#     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+#   - title: A syntax directed compiler for Algol 60
+#     link: "#"
+#     authors: Edgar T. Irons
+#     conference: "Comm. ACM 4 (1961), 51–55"
 
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+  - person: Max Balagtas-Badoy
+    email: mbadoy@umd.edu
+    # phone: 012 345 6789
+    role: Academic Program Specialist, iConsultancy
     recommendation: |
-      Alan Doe is a super employee!
+      I would be delighted to write you a letter of recommendation, especially since your work during the capstone was of such excellent quality.
+      I'm thrilled to share that your proposed process is already being implemented--that's a testament to the impact of your contributions.
   - person: Lara Henderson
     email: larah@example.com
     phone: 012 345 6789
     role: General Director at example.com
     recommendation: |
-      I would like to work with Alan Doe again!
+      Another recommendation!
 
       He is a great employee!
 
@@ -264,23 +252,26 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: Python
+    level: 80.5%
 
-  - name: Javascript & jQuery
-    level: 98%
+  - name: SQL
+    level: 65.6%
 
-  - name: Angular
-    level: 98%
+  - name: Microsoft Office
+    level: 71.4%
+
+  - name: Scripting
+    level: 62.3%
 
   - name: HTML5 & CSS
-    level: 95%
+    level: 61.2%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: R
+    level: 54%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: C
+    level: 20.8%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
